@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 50%;
+    margin: auto;
+}
+
+header {
+    font-size: 80px;
+}
+
+
+
+
